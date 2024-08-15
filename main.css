@@ -1,5 +1,9 @@
+body {
+    caret-color: transparent;
+}
+
 a:visited {
-  color: blue;
+    color: blue;
 }
 
 img {
